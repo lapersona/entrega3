@@ -1,0 +1,19 @@
+{
+  "name": "entrega3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node appServer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20",
+    "random": "^3.0.6"
+  },
+  "keywords": [],
+  "description": ""
+}
